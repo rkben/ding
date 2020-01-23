@@ -1,0 +1,24 @@
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: 16px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+ul li,
+ol li {
+    margin-bottom: 16px;
+}
+
+ul li:last-child,
+ol li:last-child {
+    margin-bottom: 0;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+    margin-left: 16px;
+}

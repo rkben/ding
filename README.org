@@ -1,0 +1,2 @@
+* Ding
+Simplified version of [[https://github.com/kbrsh/wing][kbrsh's wing]]
